@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790422762826",
+    "project_id": "morefire-d093b",
+    "storage_bucket": "morefire-d093b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790422762826:android:7c7abebdaed4930eee3db3",
+        "android_client_info": {
+          "package_name": "com.morefire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790422762826-lfrdt3v503scr00dsf11ab7sln7sdjv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-FdTg_PHiN7E7Licn_5iLIWiP0cIB-7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790422762826-lfrdt3v503scr00dsf11ab7sln7sdjv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
